@@ -1,1 +1,5 @@
-Test fr Rebase
+<<<<<<< HEAD
+Test fr Rebase. adding a line
+=======
+Merge Conflict Test
+>>>>>>> master
